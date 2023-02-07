@@ -31,7 +31,7 @@ public class Main {
 		}
 
 		
-		//VİDEO 23.9DAYIZ
+		
 	
 	}
 	
